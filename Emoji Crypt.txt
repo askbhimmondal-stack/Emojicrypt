@@ -1,0 +1,62 @@
+Emoji Stack is a lightweight and interactive web application that allows users to create, customize, and copy unique emoji combinations (emoji stacks) for use in chats, social media, and digital content.
+
+🌐 Live Demo
+
+🔗 https://emoji-stack.netlify.app/
+
+✨ Features
+
+🎨 Emoji Builder – Easily combine multiple emojis into creative stacks
+
+⚡ One-Click Copy – Instantly copy emoji combinations
+
+💡 User-Friendly UI – Clean and simple interface for smooth experience
+
+📱 Responsive Design – Works seamlessly on desktop and mobile devices
+
+🚀 Fast & Lightweight – Optimized for performance
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Deployment: Netlify
+
+📌 Use Cases
+
+Social media posts (Instagram, Twitter, WhatsApp, etc.)
+
+Chat conversations
+
+Bio and status styling
+
+Creative digital content
+
+📷 Preview
+
+Add screenshots of your website here
+
+
+
+🔍 Emoji search functionality
+
+❤️ Save favorite emoji stacks
+
+🌙 Dark mode support
+
+📂 Export stacks as text files
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repository and submit a pull request.
+
+📄 License
+
+This project is licensed under the MIT License.
+
+🙌 Acknowledgements
+
+Emoji libraries and Unicode standards
+
+Open-source community
