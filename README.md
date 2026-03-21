@@ -36,12 +36,10 @@ CSS3
 
 JavaScript
 
-📦 Installation
+📦 Live Demo
 
-Clone the repository and open the project in your browser:
+[git clone https://github.com/your-username/emojiecrypt.git](https://emoji-stack.netlify.app/)
 
-git clone https://github.com/your-username/emojiecrypt.git
-cd emojiecrypt
 💡 Vision
 
 EmojieCrypt aims to redefine how we interact with text by blending language with visual elements, making communication more engaging and universally expressive
