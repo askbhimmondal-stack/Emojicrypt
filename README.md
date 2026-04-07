@@ -38,7 +38,7 @@ JavaScript
 
 📦 Live Demo
 
-[git clone https://github.com/your-username/emojiecrypt.git](https://emoji-stack.netlify.app/)
+https://emoji-stack.netlify.app/
 
 💡 Vision
 
